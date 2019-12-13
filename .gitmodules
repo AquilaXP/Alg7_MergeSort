@@ -1,0 +1,6 @@
+[submodule "External/Alg2_iarray"]
+	path = External/Alg2_iarray
+	url = git@github.com:AquilaXP/Alg2_iarray.git
+[submodule "External/SimpleSort"]
+	path = External/SimpleSort
+	url = git@github.com:AquilaXP/Alg5_SimpleSort.git
